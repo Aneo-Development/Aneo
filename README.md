@@ -23,9 +23,7 @@ node .
 # Enjoy your own new discord bot!
 
 # FAQ | Hosting
-We host our bot on digital ocean in one of the ubuntu droplets and it is highly recommended click the logo below to get 100$ on your signup!
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=c8081abdd29e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+We do not recommend making a copy of yourself of the bot
 
 # FAQ | Support
-if you need any help then [Join our discord server](https://discord.gg/kR27E5WaQG)
+No help will be provided for editing nor compiling the code in this repository
